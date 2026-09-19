@@ -215,45 +215,12 @@ A clean task-management application with an easy-to-use interface.
 <div align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=faraaz-ahmmed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0AFFEF&icon_color=0AFFEF&text_color=FFFFFF"
-    alt="Faraz Ahmad GitHub Statistics"
-  />
-
-  <img
-    width="49%"
     src="https://streak-stats.demolab.com?user=faraaz-ahmmed&theme=radical&hide_border=true&background=0D1117&stroke=0AFFEF&ring=0AFFEF&fire=FF6B6B&currStreakLabel=0AFFEF"
     alt="Faraz Ahmad GitHub Streak"
   />
 </div>
 
 <br />
-
-<div align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz-ahmmed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0AFFEF&text_color=FFFFFF"
-    alt="Most Used Languages"
-  />
-
-  <img
-    width="49%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=faraaz-ahmmed&theme=react-dark&hide_border=true&bg_color=0D1117&color=0AFFEF&line=0AFFEF&point=FFFFFF"
-    alt="Contribution Activity"
-  />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=faraaz-ahmmed&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6"
-    alt="GitHub Trophies"
-  />
-</div>
-
----
 
 ## 🤝 Connect With Me
 
